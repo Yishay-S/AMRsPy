@@ -1,0 +1,478 @@
+id,long,lat,kind,node_id
+258,34.791,32.093,package origin,1
+54,34.773,32.082,package origin,2
+209,34.784,32.073,package origin,3
+91,34.772,32.064,package origin,4
+96,34.786,32.086999999999996,package origin,5
+169,34.773,32.069,package origin,6
+40,34.772,32.078,package origin,7
+1,34.768,32.055,package origin,8
+70,34.788000000000004,32.091,package origin,9
+115,34.766999999999996,32.056,package origin,10
+136,34.784,32.091,package origin,11
+8,34.775999999999996,32.069,package origin,12
+275,34.769,32.082,package origin,13
+124,34.771,32.059,package origin,14
+6,34.778,32.079,package origin,15
+244,34.775999999999996,32.09,package origin,16
+162,34.774,32.096,package origin,17
+290,34.782,32.073,package origin,18
+149,34.769,32.056,package origin,19
+7,34.77,32.069,package origin,20
+188,34.789,32.071999999999996,package origin,21
+282,34.789,32.083,package origin,22
+34,34.771,32.08,package origin,23
+135,34.782,32.075,package origin,24
+57,34.766,32.056999999999995,package origin,25
+79,34.779,32.067,package origin,26
+45,34.787,32.089,package origin,27
+174,34.795,32.086,package origin,28
+241,34.765,32.069,package origin,29
+182,34.782,32.088,package origin,30
+41,34.773,32.056999999999995,package origin,31
+237,34.771,32.059,package origin,32
+260,34.768,32.071999999999996,package origin,33
+53,34.766999999999996,32.056,package origin,34
+87,34.77,32.079,package origin,35
+191,34.769,32.055,package origin,36
+43,34.781,32.083,package origin,37
+84,34.782,32.095,package origin,38
+185,34.77,32.064,package origin,39
+235,34.777,32.084,package origin,40
+166,34.772,32.084,package origin,41
+172,34.769,32.086999999999996,package origin,42
+144,34.787,32.084,package origin,43
+82,34.779,32.095,package origin,44
+257,34.779,32.089,package origin,45
+24,34.773,32.059,package origin,46
+65,34.775,32.076,package origin,47
+105,34.781,32.092,package origin,48
+2,34.789,32.088,package origin,49
+165,34.787,32.091,package origin,50
+190,34.769,32.063,package origin,51
+247,34.766,32.055,package origin,52
+76,34.775999999999996,32.091,package origin,53
+42,34.792,32.096,package origin,54
+94,34.784,32.08,package origin,55
+154,34.768,32.071999999999996,package origin,56
+12,34.782,32.056999999999995,package origin,57
+236,34.787,32.071,package origin,58
+46,34.771,32.084,package origin,59
+208,34.778,32.066,package origin,60
+256,34.766,32.071999999999996,package origin,61
+92,34.783,32.092,package origin,62
+212,34.782,32.071999999999996,package origin,63
+32,34.789,32.08,package origin,64
+137,34.773,32.069,package origin,65
+284,34.77,32.055,package origin,66
+78,34.792,32.09,package origin,67
+262,34.787,32.069,package origin,68
+203,34.789,32.071999999999996,package origin,69
+138,34.78,32.08,package origin,70
+229,34.779,32.069,package origin,71
+296,34.789,32.071999999999996,package origin,72
+38,34.768,32.056,package origin,73
+123,34.79,32.073,package origin,74
+218,34.775999999999996,32.089,package origin,75
+292,34.789,32.071999999999996,package origin,76
+294,34.772,32.065,package origin,77
+51,34.781,32.076,package origin,78
+120,34.789,32.088,package origin,79
+140,34.78,32.091,package origin,80
+283,34.769,32.058,package origin,81
+109,34.779,32.074,package origin,82
+131,34.771,32.067,package origin,83
+161,34.773,32.063,package origin,84
+272,34.791,32.078,package origin,85
+202,34.775,32.094,package origin,86
+101,34.777,32.068000000000005,package origin,87
+58,34.791,32.083,package origin,88
+103,34.782,32.071,package origin,89
+253,34.766999999999996,32.076,package origin,90
+289,34.774,32.069,package origin,91
+110,34.782,32.08,package origin,92
+85,34.769,32.055,package origin,93
+206,34.779,32.071,package origin,94
+211,34.787,32.071999999999996,package origin,95
+273,34.787,32.073,package origin,96
+73,34.793,32.085,package origin,97
+176,34.786,32.089,package origin,98
+139,34.785,32.069,package origin,99
+48,34.775999999999996,32.089,package origin,100
+67,34.792,32.086,package origin,101
+223,34.77,32.064,package origin,102
+153,34.769,32.063,package origin,103
+217,34.769,32.077,package origin,104
+151,34.786,32.08,package origin,105
+113,34.772,32.069,package origin,106
+234,34.784,32.076,package origin,107
+130,34.773,32.064,package origin,108
+245,34.773,32.063,package origin,109
+106,34.772,32.055,package origin,110
+194,34.77,32.064,package origin,111
+220,34.775999999999996,32.095,package origin,112
+297,34.775,32.083,package origin,113
+102,34.785,32.07,package origin,114
+17,34.781,32.084,package origin,115
+29,34.783,32.083,package origin,116
+233,34.774,32.078,package origin,117
+55,34.777,32.083,package origin,118
+128,34.781,32.067,package origin,119
+50,34.773,32.068000000000005,package origin,120
+219,34.779,32.085,package origin,121
+60,34.772,32.071999999999996,package origin,122
+226,34.78,32.064,package origin,123
+9,34.779,32.091,package origin,124
+199,34.775,32.091,package origin,125
+228,34.768,32.056,package origin,126
+95,34.788000000000004,32.082,package origin,127
+227,34.769,32.080999999999996,package origin,128
+30,34.774,32.09,package origin,129
+251,34.775999999999996,32.096,package origin,130
+146,34.778,32.089,package origin,131
+150,34.782,32.088,package origin,132
+198,34.795,32.086,package origin,133
+263,34.78,32.071999999999996,package origin,134
+295,34.777,32.065,package origin,135
+141,34.769,32.07,package origin,136
+47,34.779,32.088,package origin,137
+119,34.788000000000004,32.073,package origin,138
+243,34.782,32.071,package origin,139
+205,34.77,32.056999999999995,package origin,140
+148,34.777,32.069,package origin,141
+254,34.791,32.079,package origin,142
+249,34.794000000000004,32.095,package origin,143
+90,34.782,32.056,package origin,144
+23,34.77,32.078,package origin,145
+93,34.787,32.092,package origin,146
+179,34.785,32.094,package origin,147
+33,34.775,32.079,package origin,148
+19,34.779,32.09,package origin,149
+104,34.769,32.056999999999995,package origin,150
+259,34.788000000000004,32.091,package origin,151
+14,34.774,32.088,package origin,152
+132,34.775,32.075,package origin,153
+20,34.775,32.069,package origin,154
+197,34.783,32.088,package origin,155
+0,34.782,32.056,package origin,156
+170,34.772,32.094,package origin,157
+248,34.784,32.080999999999996,package origin,158
+116,34.778,32.083,package origin,159
+4,34.781,32.071,package origin,160
+246,34.785,32.089,package origin,161
+27,34.77,32.055,package origin,162
+278,34.775,32.09,package origin,163
+279,34.789,32.071999999999996,package origin,164
+25,34.779,32.074,package origin,165
+181,34.782,32.076,package origin,166
+66,34.771,32.073,package origin,167
+171,34.775999999999996,32.095,package origin,168
+264,34.787,32.085,package origin,169
+269,34.782,32.06,package origin,170
+112,34.775999999999996,32.073,package origin,171
+59,34.778,32.071,package origin,172
+157,34.786,32.088,package origin,173
+189,34.789,32.088,package origin,174
+39,34.784,32.088,package origin,175
+177,34.77,32.062,package origin,176
+287,34.773,32.063,package origin,177
+100,34.789,32.078,package origin,178
+10,34.781,32.094,package origin,179
+88,34.78,32.094,package origin,180
+299,34.773,32.063,package origin,181
+277,34.764,32.069,package origin,182
+213,34.788000000000004,32.08,package origin,183
+142,34.772,32.056,package origin,184
+13,34.769,32.056,package origin,185
+99,34.771,32.078,package origin,186
+207,34.786,32.069,package origin,187
+77,34.782,32.093,package origin,188
+214,34.782,32.071,package origin,189
+16,34.769,32.056,package origin,190
+286,34.774,32.082,package origin,191
+80,34.77,32.071,package origin,192
+215,34.787,32.07,package origin,193
+111,34.766,32.07,package origin,194
+44,34.774,32.09,package origin,195
+97,34.789,32.077,package origin,196
+224,34.771,32.063,package origin,197
+255,34.788000000000004,32.077,package origin,198
+200,34.775,32.075,package origin,199
+230,34.78,32.079,package origin,200
+300,34.773,32.07,package destination,201
+301,34.788000000000004,32.077,package destination,202
+302,34.779,32.091,package destination,203
+304,34.79,32.08,package destination,204
+306,34.775,32.095,package destination,205
+307,34.782,32.068000000000005,package destination,206
+308,34.785,32.093,package destination,207
+309,34.784,32.071999999999996,package destination,208
+310,34.771,32.055,package destination,209
+312,34.786,32.092,package destination,210
+313,34.784,32.086,package destination,211
+314,34.782,32.06,package destination,212
+316,34.784,32.086999999999996,package destination,213
+317,34.779,32.063,package destination,214
+319,34.77,32.063,package destination,215
+320,34.784,32.069,package destination,216
+323,34.78,32.062,package destination,217
+324,34.782,32.092,package destination,218
+325,34.789,32.082,package destination,219
+327,34.783,32.07,package destination,220
+329,34.78,32.064,package destination,221
+330,34.769,32.065,package destination,222
+332,34.787,32.073,package destination,223
+333,34.786,32.086999999999996,package destination,224
+334,34.782,32.06,package destination,225
+338,34.772,32.077,package destination,226
+339,34.779,32.062,package destination,227
+340,34.784,32.094,package destination,228
+341,34.789,32.071,package destination,229
+342,34.787,32.079,package destination,230
+343,34.775999999999996,32.084,package destination,231
+344,34.766999999999996,32.069,package destination,232
+345,34.78,32.064,package destination,233
+346,34.781,32.061,package destination,234
+347,34.766999999999996,32.056999999999995,package destination,235
+348,34.786,32.069,package destination,236
+350,34.789,32.071999999999996,package destination,237
+351,34.78,32.064,package destination,238
+353,34.772,32.094,package destination,239
+354,34.792,32.078,package destination,240
+355,34.789,32.071999999999996,package destination,241
+357,34.766999999999996,32.077,package destination,242
+358,34.771,32.063,package destination,243
+359,34.787,32.084,package destination,244
+360,34.783,32.071,package destination,245
+365,34.771,32.055,package destination,246
+366,34.788000000000004,32.08,package destination,247
+367,34.769,32.063,package destination,248
+370,34.771,32.094,package destination,249
+373,34.773,32.064,package destination,250
+376,34.783,32.076,package destination,251
+377,34.778,32.064,package destination,252
+378,34.772,32.056999999999995,package destination,253
+379,34.771,32.075,package destination,254
+380,34.789,32.071999999999996,package destination,255
+382,34.766999999999996,32.055,package destination,256
+384,34.774,32.062,package destination,257
+385,34.766999999999996,32.074,package destination,258
+387,34.773,32.068000000000005,package destination,259
+388,34.766,32.056,package destination,260
+390,34.769,32.076,package destination,261
+391,34.789,32.076,package destination,262
+392,34.769,32.056,package destination,263
+393,34.773,32.075,package destination,264
+394,34.789,32.071999999999996,package destination,265
+395,34.782,32.058,package destination,266
+396,34.771,32.071,package destination,267
+397,34.77,32.062,package destination,268
+399,34.781,32.065,package destination,269
+400,34.772,32.056,package destination,270
+401,34.77,32.06,package destination,271
+402,34.766999999999996,32.071999999999996,package destination,272
+403,34.775,32.086,package destination,273
+404,34.772,32.088,package destination,274
+405,34.794000000000004,32.091,package destination,275
+406,34.772,32.083,package destination,276
+409,34.771,32.056999999999995,package destination,277
+410,34.771,32.065,package destination,278
+411,34.783,32.075,package destination,279
+412,34.787,32.078,package destination,280
+413,34.782,32.075,package destination,281
+415,34.785,32.069,package destination,282
+416,34.786,32.07,package destination,283
+419,34.773,32.09,package destination,284
+420,34.789,32.071999999999996,package destination,285
+423,34.768,32.069,package destination,286
+424,34.782,32.074,package destination,287
+428,34.771,32.058,package destination,288
+430,34.781,32.077,package destination,289
+431,34.775999999999996,32.089,package destination,290
+432,34.789,32.083,package destination,291
+435,34.78,32.09,package destination,292
+436,34.783,32.074,package destination,293
+437,34.784,32.086999999999996,package destination,294
+438,34.787,32.095,package destination,295
+439,34.775999999999996,32.096,package destination,296
+440,34.771,32.062,package destination,297
+441,34.791,32.091,package destination,298
+442,34.771,32.071999999999996,package destination,299
+444,34.775,32.064,package destination,300
+446,34.775999999999996,32.096,package destination,301
+448,34.794000000000004,32.080999999999996,package destination,302
+449,34.791,32.075,package destination,303
+450,34.778,32.069,package destination,304
+451,34.784,32.069,package destination,305
+453,34.779,32.071999999999996,package destination,306
+454,34.774,32.083,package destination,307
+457,34.77,32.062,package destination,308
+461,34.784,32.075,package destination,309
+462,34.779,32.069,package destination,310
+465,34.771,32.088,package destination,311
+466,34.772,32.074,package destination,312
+469,34.773,32.077,package destination,313
+470,34.784,32.094,package destination,314
+471,34.791,32.086,package destination,315
+472,34.787,32.094,package destination,316
+474,34.79,32.084,package destination,317
+476,34.772,32.074,package destination,318
+477,34.772,32.083,package destination,319
+479,34.772,32.063,package destination,320
+481,34.78,32.095,package destination,321
+482,34.772,32.056999999999995,package destination,322
+485,34.788000000000004,32.088,package destination,323
+488,34.778,32.077,package destination,324
+489,34.777,32.075,package destination,325
+490,34.779,32.062,package destination,326
+491,34.769,32.066,package destination,327
+494,34.788000000000004,32.091,package destination,328
+497,34.773,32.056999999999995,package destination,329
+498,34.775,32.079,package destination,330
+499,34.79,32.077,package destination,331
+500,34.78,32.064,package destination,332
+502,34.775,32.075,package destination,333
+503,34.777,32.075,package destination,334
+505,34.786,32.092,package destination,335
+506,34.775,32.089,package destination,336
+507,34.769,32.083,package destination,337
+508,34.788000000000004,32.083,package destination,338
+509,34.795,32.086,package destination,339
+511,34.778,32.091,package destination,340
+512,34.772,32.085,package destination,341
+513,34.766,32.055,package destination,342
+514,34.771,32.055,package destination,343
+515,34.77,32.080999999999996,package destination,344
+517,34.783,32.071,package destination,345
+518,34.783,32.08,package destination,346
+519,34.786,32.073,package destination,347
+520,34.784,32.071999999999996,package destination,348
+523,34.785,32.055,package destination,349
+524,34.773,32.08,package destination,350
+526,34.771,32.056999999999995,package destination,351
+527,34.769,32.055,package destination,352
+528,34.79,32.080999999999996,package destination,353
+529,34.773,32.088,package destination,354
+530,34.769,32.058,package destination,355
+533,34.771,32.056,package destination,356
+534,34.793,32.094,package destination,357
+535,34.775,32.094,package destination,358
+536,34.771,32.073,package destination,359
+537,34.782,32.083,package destination,360
+541,34.779,32.083,package destination,361
+543,34.769,32.079,package destination,362
+544,34.78,32.071,package destination,363
+545,34.778,32.092,package destination,364
+546,34.768,32.078,package destination,365
+547,34.766,32.071999999999996,package destination,366
+548,34.773,32.065,package destination,367
+549,34.779,32.056999999999995,package destination,368
+551,34.774,32.078,package destination,369
+553,34.787,32.078,package destination,370
+554,34.779,32.065,package destination,371
+555,34.772,32.064,package destination,372
+556,34.779,32.09,package destination,373
+557,34.786,32.077,package destination,374
+558,34.764,32.073,package destination,375
+559,34.769,32.082,package destination,376
+560,34.771,32.089,package destination,377
+562,34.769,32.079,package destination,378
+563,34.773,32.077,package destination,379
+564,34.775,32.07,package destination,380
+569,34.773,32.088,package destination,381
+572,34.771,32.071,package destination,382
+573,34.769,32.055,package destination,383
+575,34.782,32.086999999999996,package destination,384
+577,34.769,32.056999999999995,package destination,385
+578,34.778,32.077,package destination,386
+579,34.775,32.094,package destination,387
+582,34.781,32.071999999999996,package destination,388
+583,34.77,32.086999999999996,package destination,389
+584,34.775,32.079,package destination,390
+586,34.775999999999996,32.066,package destination,391
+587,34.775,32.075,package destination,392
+589,34.766999999999996,32.056,package destination,393
+590,34.782,32.094,package destination,394
+592,34.775999999999996,32.062,package destination,395
+594,34.775,32.083,package destination,396
+595,34.775,32.078,package destination,397
+596,34.784,32.086999999999996,package destination,398
+597,34.77,32.058,package destination,399
+599,34.775,32.091,package destination,400
+605,34.772,32.056999999999995,regular depot,448
+608,34.787,32.07,regular depot,449
+625,34.783,32.071,regular depot,450
+610,34.772,32.068000000000005,regular depot,451
+600,34.79,32.094,regular depot,452
+603,34.773,32.056999999999995,regular depot,453
+616,34.791,32.075,regular depot,454
+601,34.773,32.086999999999996,regular depot,455
+626,34.775999999999996,32.095,regular depot,456
+612,34.779,32.071,regular depot,457
+609,34.77,32.08,regular depot,458
+620,34.791,32.091,regular depot,459
+602,34.781,32.079,regular depot,460
+627,34.77,32.086,regular depot,461
+613,34.788000000000004,32.088,regular depot,462
+618,34.783,32.08,regular depot,463
+617,34.794000000000004,32.094,regular depot,464
+607,34.786,32.095,regular depot,465
+621,34.789,32.093,regular depot,466
+615,34.773,32.085,regular depot,467
+628,34.772,32.068000000000005,regular depot,468
+604,34.782,32.073,regular depot,469
+623,34.769,32.056999999999995,regular depot,470
+619,34.772,32.068000000000005,regular depot,471
+629,34.775,32.075,regular depot,472
+624,34.779,32.066,regular depot,473
+614,34.783,32.077,regular depot,474
+611,34.766999999999996,32.056,regular depot,475
+606,34.781,32.08,regular depot,476
+622,34.768,32.076,regular depot,477
+630,34.787409999999994,32.073476,station,401
+631,34.784808,32.073875,station,402
+632,34.782893,32.075664,station,403
+633,34.781409000000004,32.079933000000004,station,404
+634,34.781427,32.082493,station,405
+635,34.782024,32.086059000000006,station,406
+636,34.782348999999996,32.087632,station,407
+637,34.782734999999995,32.089768,station,408
+638,34.783628,32.094344,station,409
+639,34.783271,32.093619,station,410
+640,34.782604,32.090246,station,411
+641,34.782004,32.087089,station,412
+642,34.781859000000004,32.086335999999996,station,413
+643,34.781145,32.082462,station,414
+644,34.781162,32.078796000000004,station,415
+645,34.782271,32.07545,station,416
+646,34.783511,32.074017,station,417
+647,34.786797,32.073253,station,418
+648,34.772942,32.056571999999996,station,419
+649,34.773475,32.058552,station,420
+650,34.773752,32.061256,station,421
+651,34.772919,32.063839,station,422
+652,34.771696999999996,32.066604999999996,station,423
+653,34.770828,32.068872,station,424
+654,34.773474,32.071863,station,425
+655,34.775094,32.073374,station,426
+656,34.775341999999995,32.075295000000004,station,427
+657,34.77495,32.07895,station,428
+658,34.775838,32.081909,station,429
+659,34.774625,32.085446999999995,station,430
+660,34.775659999999995,32.089631,station,431
+661,34.776571999999994,32.093287,station,432
+662,34.776059000000004,32.096391,station,433
+663,34.775963,32.096302,station,434
+664,34.776506,32.093454,station,435
+665,34.775334,32.08873,station,436
+666,34.774508000000004,32.085415000000005,station,437
+667,34.77413,32.08352,station,438
+668,34.773907,32.078936,station,439
+669,34.775108,32.075410999999995,station,440
+670,34.774834999999996,32.07329,station,441
+671,34.773361,32.071897,station,442
+672,34.770781,32.068606,station,443
+673,34.772033,32.065619,station,444
+674,34.77313,32.06292,station,445
+675,34.773499,32.059065000000004,station,446
+676,34.772365,32.055412,station,447
